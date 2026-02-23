@@ -9,5 +9,5 @@ def main (page:ft.Page):
 
     page.add(texto_1)
 
-    if __name__ == "__main__":
-        ft.run(main)
+if __name__ == "__main__":
+    ft.run(main)
